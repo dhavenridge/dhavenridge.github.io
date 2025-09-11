@@ -111,7 +111,7 @@
       </div>
       <nav class="nav-links" aria-label="Primary">
         <a href="#services">Services</a>
-        <a href="staff-augmetation.html">Staff Augmentation</a>
+        <a href="staff-augmentation.html">Staff Augmentation</a>
         <a href="#case-studies">Case Studies</a>
         <a href="#contact" class="cta">Get a Quote</a>
       </nav>
