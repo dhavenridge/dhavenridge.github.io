@@ -120,9 +120,9 @@
 
   <main>
     <section class="hero container">
-      <span class="eyebrow">Manufacturing IT • CNC Connectivity • IIoT</span>
+      <span class="eyebrow">Manufacturing IT • PLC Connectivity • IIoT</span>
       <h1>Modernize your shop floor. Scale up with on‑demand experts.</h1>
-      <p class="sub">We help manufacturers connect machines, capture production data, and integrate MES/ERP. When you need extra hands, our <strong>Staff Augmentation</strong> team embeds with yours—engineers and developers who know plant IT, CNC protocols, and industrial networks.</p>
+      <p class="sub">We help manufacturers connect machines, capture production data, and integrate MES/ERP. When you need extra hands, our <strong>Staff Augmentation</strong> team embeds with yours—engineers and developers who know plant IT, PLC protocols, and industrial networks.</p>
       <div class="hero-cta">
         <a class="cta" href="staff-augmentation.html">Explore Staff Augmentation</a>
         <a class="cta" href="#contact" style="background:rgba(255,255,255,.08); border:1px solid rgba(255,255,255,.15); color:#fff;">Talk to an Engineer</a>
@@ -145,9 +145,9 @@
       <p class="kicker">From the machine to the cloud, we focus on practical upgrades that boost throughput and visibility.</p>
       <div class="grid cols-3" style="margin-top:18px;">
         <article class="card">
-          <span class="badge">CNC & DNC</span>
+          <span class="badge">PLC</span>
           <h3>Machine Connectivity</h3>
-          <p>Connect legacy and modern CNCs (Fanuc, Haas, Mazak, Heidenhain) via Ethernet/serial for reliable program transfers and data collection.</p>
+          <p>Connect legacy and modern PLCs via Ethernet/serial for reliable program transfers and data collection.</p>
           <ul class="list">
             <li>DNC setup, drip‑feed, file governance</li>
             <li>MTConnect/OPC UA adapters</li>
@@ -186,7 +186,7 @@
           <div class="card" style="background:transparent; border-color: rgba(78,161,255,.25);">
             <h3>Roles we provide</h3>
             <ul class="list">
-              <li>Manufacturing IT engineer (CNC/DNC, MTConnect)</li>
+              <li>Manufacturing IT engineer (PLC, MTConnect)</li>
               <li>Integration developer (MES/ERP, APIs)</li>
               <li>Full‑stack web dev (dashboards & portals)</li>
               <li>Industrial network specialist (Ethernet/IP, VLAN)</li>
@@ -205,7 +205,7 @@
           <div class="card" style="background:transparent; border-color: rgba(78,161,255,.25);">
             <h3>Why it works</h3>
             <ul class="list">
-              <li>Manufacturing‑native skillset (CNC, PLC, MES)</li>
+              <li>Manufacturing‑native skillset (PLC, MES)</li>
               <li>Rapid onboarding, documented hand‑offs</li>
               <li>Flexible contracts, simple pricing</li>
               <li>U.S. time zones, clear SLAs</li>
