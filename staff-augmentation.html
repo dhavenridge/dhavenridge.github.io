@@ -215,10 +215,10 @@
       <p class="kicker">Share your systems, timelines, and outcomes. We'll reply with resumes and indicative rates.</p>
       <div class="grid cols-2" style="margin-top:18px;">
         <form class="card" onsubmit="return submitForm(event)">
-          <label><span class="small">Name</span><input required type="text" name="name" placeholder="Your name"></label>
-          <label><span class="small">Company</span><input type="text" name="company" placeholder="Your company"></label>
-          <label><span class="small">Email</span><input required type="email" name="email" placeholder="you@example.com"></label>
-          <label><span class="small">Role needed</span>
+          <label><span class="small">Name</span><input required type="text" name="name" placeholder="Your name"></label><br />
+          <label><span class="small">Company</span><input type="text" name="company" placeholder="Your company"></label><br />
+          <label><span class="small">Email</span><input required type="email" name="email" placeholder="you@example.com"></label><br />
+          <label><span class="small">Role needed</span><br />
             <select name="role">
               <option>Manufacturing IT Engineer</option>
               <option>Integration Developer</option>
@@ -226,8 +226,8 @@
               <option>Industrial Network Specialist</option>
               <option>Data Engineer</option>
             </select>
-          </label>
-          <label><span class="small">Details</span><textarea name="details" rows="5" placeholder="Systems, machines, timeline, outcomes"></textarea></label>
+          </label><br />
+          <label><span class="small">Details</span><textarea name="details" rows="5" placeholder="Systems, machines, timeline, outcomes"></textarea></label><br />
           <button class="btn" type="submit">Send request</button>
           <p id="form-result" class="small" role="status" aria-live="polite" style="display:none;margin:0;"></p>
         </form>
