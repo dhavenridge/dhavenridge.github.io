@@ -107,7 +107,7 @@
     <div class="container nav">
       <div class="brand">
         <div class="logo" aria-hidden="true"></div>
-        <a href="#" aria-label="Shop Floor Automation home">Shop Floor Automation</a>
+        <a href="#" aria-label="Shop Floor Automation home">SFA Logo Here</a>
       </div>
       <nav class="nav-links" aria-label="Primary">
         <a href="#services">Services</a>
