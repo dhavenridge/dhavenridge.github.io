@@ -297,7 +297,7 @@
   </main>
 
   <footer>
-    <div class="container cols-3">
+    <div class="container">
       <div>
         <div class="brand"><div class="logo"></div><strong>Shop Floor Automation</strong></div>
         <p class="small">© <span id="year"></span> Shop Floor Automation. All rights reserved.</p>
