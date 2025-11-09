@@ -119,7 +119,7 @@
   <main>
     <section class="hero container">
         <div style="display:flex;justify-content:center;align-items:center;height:100px;width: 100px;">
-          <img src="sfa-logo-transparent.png" alt="Shopfloor Automation logo" style="max-width:100%;height:auto;" />
+          <img src="sfa-logo-2.png" alt="Shopfloor Automation logo" style="max-width:100%;height:auto;" />
           <p style="text-align: left; font-size:35pt;">Shopfloor Automation, Inc.</p>
         </div>
       <!-- <span class="eyebrow">Staff Augmentation • Manufacturing Applications • PLC Connectivity • IIoT Experience</span>-->
@@ -131,6 +131,7 @@
         <a class="cta" href="#contact" style="background:rgba(255,255,255,.08); border:1px solid rgba(255,255,255,.15); color:#fff;">Talk to an Engineer</a>
       </div>
     </section>
+    <br />
     <section id="staff-aug" class="container">
       <div class="card highlight">
         <h2>Staff Augmentation for Manufacturing IT</h2>
@@ -298,7 +299,7 @@
       <div>
         <div class="brand">
           <div style="display:flex;justify-content:center;align-items:center;height:60px;width: 60px;">
-            <img src="sfa-logo-transparent.png" alt="Shopfloor Automation logo" style="max-width:100%;height:auto;" />
+            <img src="sfa-logo-2.png" alt="Shopfloor Automation logo" style="max-width:100%;height:auto;" />
           </div>
           <a href="#" aria-label="Shop Floor Automation home">Shopfloor Automation, Inc.</a>
         </div>
