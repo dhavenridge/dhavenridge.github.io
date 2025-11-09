@@ -91,7 +91,7 @@
 
     /* Contact */
     form { display: grid; gap: 12px; }
-    input, textarea, select { width: 100%; padding: 12px 14px; border-radius: 12px; border: 1px solid rgba(255,255,255,.12); background: rgba(255,255,255,.05); color: var(--text); outline: none; }
+    input, textarea, select { width: 100%; padding: 12px 14px; border-radius: 12px; border: 1px solid rgba(255,255,255,.12); color: var(--text); outline: none; }
     input:focus, textarea:focus, select:focus { border-color: var(--ring); box-shadow: 0 0 0 6px rgba(78,161,255,.12); }
     .btn { background: linear-gradient(135deg, var(--brand), var(--brand-2)); border: 0; color: #fff; padding: 12px 16px; border-radius: 12px; font-weight: 700; cursor: pointer; }
 
@@ -188,7 +188,7 @@
         <p class="kicker">Our engineers act on needs from across the industry. Our applications short cut your development time/costs and provide proven success for your business.</p>
         <div class="grid cols-3" style="margin-top: 18px;">
           <div class="card" style="background:transparent; border-color: rgba(78,161,255,.25);">
-            <h3>Color Capture/h3>
+            <h3>Color Capture</h3>
             <ul class="list">
               <li>Capture all spectrophotometer readings (you own the data)</li>
               <li>Compare colors across multiple sites</li>
@@ -199,29 +199,25 @@
           <div class="card" style="background:transparent; border-color: rgba(78,161,255,.25);">
             <h3>Batch UI</h3>
             <ul class="list">
+              <li>Best in class workflow</li>
               <li>Accurate weigh up and data capture</li>
               <li>Easily integrated with your ERP system</li>
               <li>Save time and reduce errors</li>
-              <li>Multi-platform executable (at your request)</li>
+              <li>Multi-platform, localized interface (your equipment, your culture)</li>
             </ul>
           </div>
           <div class="card" style="background:transparent; border-color: rgba(78,161,255,.25);">
-            <h3>Why it works</h3>
+            <h3>Your Application Here!</h3>
             <ul class="list">
-              <li>Manufacturing‑native skillset (PLC, MES)</li>
-              <li>Rapid onboarding, documented hand‑offs</li>
-              <li>Flexible contracts, simple pricing</li>
-              <li>U.S. time zones, clear SLAs</li>
+              <li>Complete turn key solutions</li>
+              <li>Structured specifications and process</li>
+              <li>One price, no overruns (we quote, we deliver)</li>
             </ul>
           </div>
         </div>
-        <div class="cta-band" style="margin-top: 20px;">
-          <p>Need help next month—or Monday? Get resumes and rates within 24 hours.</p>
-          <a class="btn" href="#contact">Request talent profiles</a>
-        </div>
       </div>
     </section>
-    <section id="case-studies" class="container">
+    <!-- <section id="case-studies" class="container">
       <h2>Recent outcomes</h2>
       <div class="grid cols-3" style="margin-top: 18px;">
         <article class="card">
@@ -249,7 +245,7 @@
           </ul>
         </article>
       </div>
-    </section>
+    </section> -->
     <section id="contact" class="container">
       <h2>Get a quote</h2>
       <p class="kicker">Tell us what you’re tackling—connectivity, MES, dashboards, or a team boost. We’ll reply with a short plan and pricing.</p>
@@ -269,7 +265,7 @@
           </label>
           <label>
             <span class="small">What do you need?</span>
-            <select name="interest">
+            <select name="interest" >
               <option>Staff Augmentation</option>
               <option>Machine Connectivity / DNC</option>
               <option>MES / ERP Integration</option>
@@ -286,7 +282,7 @@
         </form>
         <div class="card">
           <h3>Prefer email or a call?</h3>
-          <p>Reach us at <a href="mailto:sales@shopfloorautomation.net">sales@shopfloorautomation.net</a> or (XXX) XXX‑XXXX. We’re in U.S. Central Time.</p>
+          <p>Reach us at <a href="mailto:sales@shopfloorautomation.net">sales@shopfloorautomation.net</a>. We’re in U.S. Central Time.</p>
           <p class="small">We can sign NDAs and align with supplier cybersecurity requirements.</p>
           <div class="cta-band" style="margin-top: 8px;">
             <p>Need an NDA first? We’ll send ours or sign yours.</p>
@@ -300,10 +296,14 @@
   <footer>
     <div class="container">
       <div>
-        <div class="brand"><div class="logo"></div><strong>Shop Floor Automation</strong></div>
-        <p class="small">© <span id="year"></span> Shop Floor Automation. All rights reserved.</p>
+        <div class="brand">
+          <div style="display:flex;justify-content:center;align-items:center;height:60px;width: 60px;">
+            <img src="sfa-logo-transparent.png" alt="Shopfloor Automation logo" style="max-width:100%;height:auto;" />
+          </div>
+          <a href="#" aria-label="Shop Floor Automation home">Shopfloor Automation, Inc.</a>
+        </div>
       </div>
-      <div>
+      <!-- <div>
         <strong>Company</strong>
         <ul class="list">
           <li><a href="#services">Services</a></li>
@@ -318,7 +318,7 @@
           <li><a href="#">Privacy</a></li>
           <li><a href="#">Security</a></li>
         </ul>
-      </div>
+      </div> -->
     </div>
   </footer>
 
