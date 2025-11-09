@@ -106,7 +106,7 @@
   <header>
     <div class="container nav">
       <div class="brand">
-        <div class="logo" aria-hidden="true"><img src="sfa-logo.png" alt="A beautiful example image" width="50" height="50"></div>
+        <div class="logo" aria-hidden="true"><img src="sfa-logo-transparent.png" alt="A beautiful example image" width="30" height="30"></div>
         <a href="#" aria-label="Shop Floor Automation home">Shopfloor Automation, Inc.</a>
       </div>
       <nav class="nav-links" aria-label="Primary">
