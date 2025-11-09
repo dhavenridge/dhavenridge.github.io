@@ -54,7 +54,7 @@
     .hero { padding: 72px 0 40px; text-align: center; }
     .eyebrow { display: inline-block; padding: 6px 12px; border-radius: 999px; background: rgba(78,161,255,.12); color: #cfe1ff; font-weight: 600; letter-spacing: .3px; }
     h1 { font-size: clamp(32px, 4.8vw, 56px); line-height: 1.08; margin: 18px 0 12px; letter-spacing: -.02em; }
-    .sub { max-width: 860px; margin: 0 auto; color: var(--muted); font-size: clamp(16px, 2.2vw, 20px); text-align:left; }
+    .sub { max-width: 860px; margin: 0 auto; color: var(--muted); font-size: clamp(16px, 2.2vw, 20px); }
     .hero-cta { margin-top: 40px; display: flex; gap: 14px; justify-content: center; flex-wrap: wrap; }
 
     /* Trust */
@@ -121,11 +121,11 @@
         <div style="display:flex;justify-content:center;align-items:center;height:100px;width: 100px;">
           <img src="sfa-logo-transparent.png" alt="Shopfloor Automation logo" style="max-width:100%;height:auto;" />
         </div>
-        <h1 style="text-align: left;">Shopfloor Automation, Inc.</h1>
+        <p style="text-align: left; font-size:75pt;">Shopfloor Automation, Inc.</p>
       <!-- <span class="eyebrow">Staff Augmentation • Manufacturing Applications • PLC Connectivity • IIoT Experience</span>-->
       <h1>Modernize your shop floor.&nbsp;&nbsp;Scale up fast with on‑demand experts.</h1>
       <p class="sub">We help manufacturers connect machines, capture production data, and integrate MES/ERP. When you need extra hands, our <strong>Staff Augmentation</strong> team embeds with yours—engineers and developers who know plant IT, PLC protocols, and industrial networks. If a fast start is what you are after, we may have just the solution in our <strong>Custom Applications</strong></p>
-      <div class="hero-cta">
+      <div class="hero-cta" style="margin-top:30px;">
         <a class="cta" href="#staff-aug">Staff Augmentation</a>
         <a class="cta" href="#services">Custom Applications</a>
         <a class="cta" href="#contact" style="background:rgba(255,255,255,.08); border:1px solid rgba(255,255,255,.15); color:#fff;">Talk to an Engineer</a>
