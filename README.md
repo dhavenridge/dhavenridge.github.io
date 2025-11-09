@@ -116,7 +116,7 @@
 
   <main>
     <section class="hero container">
-        <div style="display:flex;justify-content:center;align-items:center;height:100px;width: 100px;">
+        <div style="display:flex;justify-content:center;align-items:center;">
           <img src="sfa-logo-2.png" alt="Shopfloor Automation logo" style="background:initial;max-width:100%;height:auto;" />
           <p style="text-align: left; font-size:35pt;">Shopfloor Automation, Inc.</p>
         </div>
