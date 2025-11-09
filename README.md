@@ -175,7 +175,7 @@
     <section id="services" class="container">
       <div class="card highlight" style="margin-top: 18px;">
         <h2>Process Manufacturing Toosl for your Shopfloor</h2>
-        <p class="kicker">We create applications for your shop floor. We provide proven workflows for standard. Our engineers act on needs from across the industry, providing proven success for your business.</p>
+        <p class="kicker">Our engineers act on needs from across the industry. Our applications short cut your development time/costs and provide proven success for your business.</p>
         <div class="grid cols-3" style="margin-top: 18px;">
           <div class="card" style="background:transparent; border-color: rgba(78,161,255,.25);">
             <h3>Roles we provide</h3>
