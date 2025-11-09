@@ -45,7 +45,7 @@
     header { position: sticky; top: 0; z-index: 20; backdrop-filter: blur(8px); background: rgba(11,18,32,.65); border-bottom: 1px solid rgba(255,255,255,.06); }
     .nav { display: flex; align-items: center; justify-content: space-between; padding: 14px 0; }
     .brand { display: flex; align-items: center; gap: 12px; font-weight: 800; letter-spacing: .2px; }
-    .brand .logo { width: 36px; height: 36px; border-radius: 9px; background: linear-gradient(135deg, var(--brand), var(--brand-2)); box-shadow: 0 8px 20px var(--shadow); }
+    .brand .logo { width: 36px; height: 36px; border-radius: 9px; background: linear-gradient(135deg, var(--brand), var(--brand-2)); box-shadow: 0 8px 20px var(--shadow); text-align: center; }
     .nav a { color: var(--text); opacity: .9; font-weight: 600; }
     .nav-links { display: flex; gap: 22px; align-items: center; }
     .cta { background: linear-gradient(135deg, var(--brand-2), var(--brand)); border: 0; color: white; font-weight: 700; padding: 10px 16px; border-radius: 999px; box-shadow: 0 8px 20px var(--shadow); cursor: pointer; }
