@@ -370,11 +370,13 @@
     </header>
 
     <main>
-        <section class="hero container">
+
             <div style="display:flex;justify-content:center;align-items:center;gap:20px;">
-                <img src="sfa-logo-2.png" alt="Shopfloor Automation logo" style="background:initial;width:100px;height:auto;" />
-                <p style="text-align: left; font-size:35pt;">Shopfloor Automation, Inc.</p>
+                <img src="sfa-logo-2.png" alt="Shopfloor Automation logo" style="background:initial;width:150px;height:auto;" />
+                <p style="text-align: left; font-size:45pt;">Shopfloor Automation, Inc.</p>
             </div>
+
+        <section class="hero container">
             <!-- <span class="eyebrow">Staff Augmentation • Manufacturing Applications • PLC Connectivity • IIoT Experience</span>-->
             <h2>Modernize your shop floor.&nbsp;&nbsp;Scale up fast with on‑demand experts.</h2>
             <p class="sub">We help manufacturers connect machines, capture production data, and integrate MES/ERP. When
