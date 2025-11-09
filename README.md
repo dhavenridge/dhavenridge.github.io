@@ -114,7 +114,7 @@
       <nav class="nav-links" aria-label="Primary">
         <!-- <a href="staff-augmentation.html">Staff Augmentation</a>-->
         <a href="#staff-aug">Staff Augmentation</a>
-        <a href="#services">Application Services</a>
+        <a href="#services">Custom Applications</a>
         <a href="#contact" class="cta">Get a Quote</a>
       </nav>
     </div>
@@ -122,14 +122,14 @@
 
   <main>
     <section class="hero container">
-      <span class="eyebrow">Staff Augmentation • Manufacturing Applications • PLC Connectivity • IIoT Experience</span>
-      <h1>Modernize your shop floor.  •  Scale up with on‑demand experts.</h1>
+      <!-- <span class="eyebrow">Staff Augmentation • Manufacturing Applications • PLC Connectivity • IIoT Experience</span>-->
+      <h1>Modernize your shop floor.&nbsp;&nbsp;&nbsp;&nbsp;Scale up fast with on‑demand experts.</h1>
       <p class="sub">We help manufacturers connect machines, capture production data, and integrate MES/ERP. When you need extra hands, our <strong>Staff Augmentation</strong> team embeds with yours—engineers and developers who know plant IT, PLC protocols, and industrial networks.</p>
-      <div class="hero-cta">
-        <a class="cta" href="#staff-aug">Explore Staff Augmentation</a>
-        <a class="cta" href="#services">Explore Applications Augmentation</a>
+      <!-- <div class="hero-cta">
+        <a class="cta" href="#staff-aug">Staff Augmentation</a>
+        <a class="cta" href="#services">Custom Applications</a>
         <a class="cta" href="#contact" style="background:rgba(255,255,255,.08); border:1px solid rgba(255,255,255,.15); color:#fff;">Talk to an Engineer</a>
-      </div>
+      </div> -->
     </section>
     <section id="staff-aug" class="container">
       <div class="card highlight">
@@ -172,28 +172,37 @@
       </div>
     </section>
     <br />
+    <section class="hero container">
+      <!-- <span class="eyebrow">Staff Augmentation • Manufacturing Applications • PLC Connectivity • IIoT Experience</span>-->
+      <h1>Functionality fast -- Prebuilt, custom applications for your shop floor.</h1>
+      <p class="sub">We also deliver prebuilt, tested custom applications to fit industry needs.</p>
+      <!-- <div class="hero-cta">
+        <a class="cta" href="#staff-aug">Staff Augmentation</a>
+        <a class="cta" href="#services">Custom Applications</a>
+        <a class="cta" href="#contact" style="background:rgba(255,255,255,.08); border:1px solid rgba(255,255,255,.15); color:#fff;">Talk to an Engineer</a>
+      </div> -->
+    </section>
     <section id="services" class="container">
       <div class="card highlight" style="margin-top: 18px;">
-        <h2>Process Manufacturing Toosl for your Shopfloor</h2>
+        <h2>Process Manufacturing Tools for your Shopfloor</h2>
         <p class="kicker">Our engineers act on needs from across the industry. Our applications short cut your development time/costs and provide proven success for your business.</p>
         <div class="grid cols-3" style="margin-top: 18px;">
           <div class="card" style="background:transparent; border-color: rgba(78,161,255,.25);">
-            <h3>Roles we provide</h3>
+            <h3>Color Capture/h3>
             <ul class="list">
-              <li>Manufacturing IT engineer (PLC, MTConnect)</li>
-              <li>Integration developer (MES/ERP, APIs)</li>
-              <li>Full‑stack web dev (dashboards & portals)</li>
-              <li>Industrial network specialist (Ethernet/IP, VLAN)</li>
-              <li>Data engineer (IIoT pipelines, historians)</li>
+              <li>Capture all spectrophotometer readings (you own the data)</li>
+              <li>Compare colors across multiple sites</li>
+              <li>Share successful recipes</li>
+              <li>Leverage your data in new ways</li>
             </ul>
           </div>
           <div class="card" style="background:transparent; border-color: rgba(78,161,255,.25);">
-            <h3>Engagement models</h3>
+            <h3>Batch UI</h3>
             <ul class="list">
-              <li>Part‑time: 20–60 hrs/mo to cover spikes</li>
-              <li>Full‑time: embedded for sprints or quarters</li>
-              <li>Project‑based: fixed scope, fixed fee</li>
-              <li>On‑site, remote, or hybrid</li>
+              <li>Accurate weigh up and data capture</li>
+              <li>Easily integrated with your ERP system</li>
+              <li>Save time and reduce errors</li>
+              <li>Multi-platform executable (at your request)</li>
             </ul>
           </div>
           <div class="card" style="background:transparent; border-color: rgba(78,161,255,.25);">
