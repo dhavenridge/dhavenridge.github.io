@@ -91,7 +91,7 @@
 
     /* Contact */
     form { display: grid; gap: 12px; }
-    input, textarea, select { width: 100%; padding: 12px 14px; border-radius: 12px; border: 1px solid rgba(255,255,255,.12); color: var(--text); outline: none; }
+    input, textarea, select { width: 100%; padding: 12px 14px; border-radius: 12px; border: 1px solid rgba(255,255,255,.12); background: rgba(255,255,255,.05); color: var(--text); outline: none; }
     input:focus, textarea:focus, select:focus { border-color: var(--ring); box-shadow: 0 0 0 6px rgba(78,161,255,.12); }
     .btn { background: linear-gradient(135deg, var(--brand), var(--brand-2)); border: 0; color: #fff; padding: 12px 16px; border-radius: 12px; font-weight: 700; cursor: pointer; }
 
