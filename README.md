@@ -122,65 +122,17 @@
 
   <main>
     <section class="hero container">
-      <span class="eyebrow">Manufacturing IT • PLC Connectivity • IIoT</span>
-      <h1>Modernize your shop floor. Scale up with on‑demand experts.</h1>
+      <span class="eyebrow">Staff Augmentation • Manufacturing Applications • PLC Connectivity • IIoT Experience</span>
+      <h1>Modernize your shop floor.  •  Scale up with on‑demand experts.</h1>
       <p class="sub">We help manufacturers connect machines, capture production data, and integrate MES/ERP. When you need extra hands, our <strong>Staff Augmentation</strong> team embeds with yours—engineers and developers who know plant IT, PLC protocols, and industrial networks.</p>
       <div class="hero-cta">
-        <a class="cta" href="staff-augmentation.html">Explore Staff Augmentation</a>
+        <a class="cta" href="#staff-aug">Explore Staff Augmentation</a>
+        <a class="cta" href="#services">Explore Applications Augmentation</a>
         <a class="cta" href="#contact" style="background:rgba(255,255,255,.08); border:1px solid rgba(255,255,255,.15); color:#fff;">Talk to an Engineer</a>
       </div>
     </section>
-    <div class="container trust">
-      Trusted by manufacturers across aerospace, medical, automotive, and job shops
-      <div class="logos" style="margin-top:14px;">
-        <div>Aerospace</div>
-        <div>Medical</div>
-        <div>Automotive</div>
-        <div>Energy</div>
-        <div>Job Shops</div>
-      </div>
-    </div>
-
-    <section id="services" class="container">
-      <h2>What we deliver</h2>
-      <p class="kicker">From the machine to the cloud, we focus on practical upgrades that boost throughput and visibility.</p>
-      <div class="grid cols-3" style="margin-top:18px;">
-        <article class="card">
-          <span class="badge">PLC</span>
-          <h3>Machine Connectivity</h3>
-          <p>Connect legacy and modern PLCs via Ethernet/serial for reliable program transfers and data collection.</p>
-          <ul class="list">
-            <li>DNC setup, drip‑feed, file governance</li>
-            <li>MTConnect/OPC UA adapters</li>
-            <li>Alarms, tool life, OEE events</li>
-          </ul>
-        </article>
-        <article class="card">
-          <span class="badge">MES / ERP</span>
-          <h3>Integrations</h3>
-          <p>Close the loop between the shop floor and business systems.</p>
-          <ul class="list">
-            <li>Dispatch, schedule, routings</li>
-            <li>Part/operation traceability</li>
-            <li>Dashboards & alerts</li>
-          </ul>
-        </article>
-        <article class="card">
-          <span class="badge">IIoT</span>
-          <h3>Data & Automation</h3>
-          <p>Collect high‑value signals and automate workflows.</p>
-          <ul class="list">
-            <li>Sensors, PLCs, edge gateways</li>
-            <li>Time‑series storage, APIs</li>
-            <li>Quality & downtime analysis</li>
-          </ul>
-        </article>
-      </div>
-    </section>
-
     <section id="staff-aug" class="container">
       <div class="card highlight">
-        <span class="badge">New</span>
         <h2>Staff Augmentation for Manufacturing IT</h2>
         <p class="kicker">Add vetted engineers and developers to your team—only when you need them. Our people understand plants, controls, and production realities.</p>
         <div class="grid cols-3" style="margin-top: 18px;">
@@ -219,7 +171,47 @@
         </div>
       </div>
     </section>
-
+    <br />
+    <section id="services" class="container">
+      <div class="card highlight" style="margin-top: 18px;">
+        <h2>Process Manufacturing Toosl for your Shopfloor</h2>
+        <p class="kicker">We create applications for your shop floor. We provide proven workflows for standard. Our engineers act on needs from across the industry, providing proven success for your business.</p>
+        <div class="grid cols-3" style="margin-top: 18px;">
+          <div class="card" style="background:transparent; border-color: rgba(78,161,255,.25);">
+            <h3>Roles we provide</h3>
+            <ul class="list">
+              <li>Manufacturing IT engineer (PLC, MTConnect)</li>
+              <li>Integration developer (MES/ERP, APIs)</li>
+              <li>Full‑stack web dev (dashboards & portals)</li>
+              <li>Industrial network specialist (Ethernet/IP, VLAN)</li>
+              <li>Data engineer (IIoT pipelines, historians)</li>
+            </ul>
+          </div>
+          <div class="card" style="background:transparent; border-color: rgba(78,161,255,.25);">
+            <h3>Engagement models</h3>
+            <ul class="list">
+              <li>Part‑time: 20–60 hrs/mo to cover spikes</li>
+              <li>Full‑time: embedded for sprints or quarters</li>
+              <li>Project‑based: fixed scope, fixed fee</li>
+              <li>On‑site, remote, or hybrid</li>
+            </ul>
+          </div>
+          <div class="card" style="background:transparent; border-color: rgba(78,161,255,.25);">
+            <h3>Why it works</h3>
+            <ul class="list">
+              <li>Manufacturing‑native skillset (PLC, MES)</li>
+              <li>Rapid onboarding, documented hand‑offs</li>
+              <li>Flexible contracts, simple pricing</li>
+              <li>U.S. time zones, clear SLAs</li>
+            </ul>
+          </div>
+        </div>
+        <div class="cta-band" style="margin-top: 20px;">
+          <p>Need help next month—or Monday? Get resumes and rates within 24 hours.</p>
+          <a class="btn" href="#contact">Request talent profiles</a>
+        </div>
+      </div>
+    </section>
     <section id="case-studies" class="container">
       <h2>Recent outcomes</h2>
       <div class="grid cols-3" style="margin-top: 18px;">
@@ -249,7 +241,6 @@
         </article>
       </div>
     </section>
-
     <section id="contact" class="container">
       <h2>Get a quote</h2>
       <p class="kicker">Tell us what you’re tackling—connectivity, MES, dashboards, or a team boost. We’ll reply with a short plan and pricing.</p>
