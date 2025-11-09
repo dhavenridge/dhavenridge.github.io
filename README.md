@@ -105,8 +105,6 @@
 <body>
   <header>
     <div class="container nav">
-      <div class="brand">
-      </div>
       <nav class="nav-links" aria-label="Primary">
         <!-- <a href="staff-augmentation.html">Staff Augmentation</a>-->
         <a href="#staff-aug">Staff Augmentation</a>
