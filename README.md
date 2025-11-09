@@ -2,7 +2,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Shop Floor Automation — Manufacturing IT & Staff Augmentation</title>
+  <title>Shopfloor Automation — Manufacturing Applications & Staff Augmentation</title>
   <meta name="description" content="Shop Floor Automation helps manufacturers modernize operations: CNC connectivity, MES integrations, and on-demand staff augmentation for manufacturing IT projects." />
   <meta property="og:title" content="Shop Floor Automation — Manufacturing IT & Staff Augmentation" />
   <meta property="og:description" content="On-demand engineers and developers for your plant IT projects. CNC data, MES/ERP, IIoT, and automation—delivered." />
@@ -107,12 +107,12 @@
     <div class="container nav">
       <div class="brand">
         <div class="logo" aria-hidden="true"></div>
-        <a href="#" aria-label="Shop Floor Automation home">SFA Logo Here</a>
+        <a href="#" aria-label="Shop Floor Automation home">Shopfloor Automation, Inc.</a>
       </div>
       <nav class="nav-links" aria-label="Primary">
-        <a href="#services">Services</a>
-        <a href="staff-augmentation.html">Staff Augmentation</a>
-        <a href="#case-studies">Case Studies</a>
+        <!-- <a href="staff-augmentation.html">Staff Augmentation</a>-->
+        <a href="#staff-aug">Staff Augmentation</a>
+        <a href="#services">Application Services</a>
         <a href="#contact" class="cta">Get a Quote</a>
       </nav>
     </div>
@@ -128,7 +128,6 @@
         <a class="cta" href="#contact" style="background:rgba(255,255,255,.08); border:1px solid rgba(255,255,255,.15); color:#fff;">Talk to an Engineer</a>
       </div>
     </section>
-
     <div class="container trust">
       Trusted by manufacturers across aerospace, medical, automotive, and job shops
       <div class="logos" style="margin-top:14px;">
