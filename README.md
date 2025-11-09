@@ -120,8 +120,8 @@
     <section class="hero container">
         <div style="display:flex;justify-content:center;align-items:center;height:100px;width: 100px;">
           <img src="sfa-logo-transparent.png" alt="Shopfloor Automation logo" style="max-width:100%;height:auto;" />
+          <p style="text-align: left; font-size:35pt;">Shopfloor Automation, Inc.</p>
         </div>
-        <p style="text-align: left; font-size:75pt;">Shopfloor Automation, Inc.</p>
       <!-- <span class="eyebrow">Staff Augmentation • Manufacturing Applications • PLC Connectivity • IIoT Experience</span>-->
       <h1>Modernize your shop floor.&nbsp;&nbsp;Scale up fast with on‑demand experts.</h1>
       <p class="sub">We help manufacturers connect machines, capture production data, and integrate MES/ERP. When you need extra hands, our <strong>Staff Augmentation</strong> team embeds with yours—engineers and developers who know plant IT, PLC protocols, and industrial networks. If a fast start is what you are after, we may have just the solution in our <strong>Custom Applications</strong></p>
