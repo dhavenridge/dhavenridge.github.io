@@ -124,12 +124,12 @@
     <section class="hero container">
       <!-- <span class="eyebrow">Staff Augmentation • Manufacturing Applications • PLC Connectivity • IIoT Experience</span>-->
       <h1>Modernize your shop floor.&nbsp;&nbsp;Scale up fast with on‑demand experts.</h1>
-      <p class="sub">We help manufacturers connect machines, capture production data, and integrate MES/ERP. When you need extra hands, our <strong>Staff Augmentation</strong> team embeds with yours—engineers and developers who know plant IT, PLC protocols, and industrial networks.</p>
-      <!-- <div class="hero-cta">
+      <p class="sub">We help manufacturers connect machines, capture production data, and integrate MES/ERP. When you need extra hands, our <strong>Staff Augmentation</strong> team embeds with yours—engineers and developers who know plant IT, PLC protocols, and industrial networks. If a fast start is what you are after, we may have just the solution in our <strong>Custom Applications</strong></p>
+      <div class="hero-cta">
         <a class="cta" href="#staff-aug">Staff Augmentation</a>
         <a class="cta" href="#services">Custom Applications</a>
         <a class="cta" href="#contact" style="background:rgba(255,255,255,.08); border:1px solid rgba(255,255,255,.15); color:#fff;">Talk to an Engineer</a>
-      </div> -->
+      </div>
     </section>
     <section id="staff-aug" class="container">
       <div class="card highlight">
