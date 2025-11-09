@@ -2,7 +2,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Shopfloor Automation — Manufacturing Applications & Staff Augmentation</title>
+  <title>Shopfloor Automation — Staff Augmentation and Manufacturing Applications</title>
   <meta name="description" content="Shop Floor Automation helps manufacturers modernize operations: CNC connectivity, MES integrations, and on-demand staff augmentation for manufacturing IT projects." />
   <meta property="og:title" content="Shop Floor Automation — Manufacturing IT & Staff Augmentation" />
   <meta property="og:description" content="On-demand engineers and developers for your plant IT projects. CNC data, MES/ERP, IIoT, and automation—delivered." />
@@ -123,7 +123,7 @@
   <main>
     <section class="hero container">
       <!-- <span class="eyebrow">Staff Augmentation • Manufacturing Applications • PLC Connectivity • IIoT Experience</span>-->
-      <h1>Modernize your shop floor.&nbsp;&nbsp;&nbsp;&nbsp;Scale up fast with on‑demand experts.</h1>
+      <h1>Modernize your shop floor.&nbsp;&nbsp;Scale up fast with on‑demand experts.</h1>
       <p class="sub">We help manufacturers connect machines, capture production data, and integrate MES/ERP. When you need extra hands, our <strong>Staff Augmentation</strong> team embeds with yours—engineers and developers who know plant IT, PLC protocols, and industrial networks.</p>
       <!-- <div class="hero-cta">
         <a class="cta" href="#staff-aug">Staff Augmentation</a>
@@ -174,8 +174,8 @@
     <br />
     <section class="hero container">
       <!-- <span class="eyebrow">Staff Augmentation • Manufacturing Applications • PLC Connectivity • IIoT Experience</span>-->
-      <h1>Functionality fast -- Prebuilt, custom applications for your shop floor.</h1>
-      <p class="sub">We also deliver prebuilt, tested custom applications to fit industry needs.</p>
+      <h1>Applications ready to super charge your shop floor!</h1>
+      <p class="sub">We can deliver prebuilt, tested custom applications to fit your needs. We leveraged our experience to codify manufacturing best practices in our custom applications.</p>
       <!-- <div class="hero-cta">
         <a class="cta" href="#staff-aug">Staff Augmentation</a>
         <a class="cta" href="#services">Custom Applications</a>
@@ -184,7 +184,7 @@
     </section>
     <section id="services" class="container">
       <div class="card highlight" style="margin-top: 18px;">
-        <h2>Process Manufacturing Tools for your Shopfloor</h2>
+        <h2>Process Manufacturing Tools</h2>
         <p class="kicker">Our engineers act on needs from across the industry. Our applications short cut your development time/costs and provide proven success for your business.</p>
         <div class="grid cols-3" style="margin-top: 18px;">
           <div class="card" style="background:transparent; border-color: rgba(78,161,255,.25);">
