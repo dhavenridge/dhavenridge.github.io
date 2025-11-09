@@ -106,7 +106,7 @@
   <header>
     <div class="container nav">
       <div class="brand">
-        <div style="display:flex;justify-content:center;align-items:center;height:60px;width: 60px; height: 36px; border-radius: 9px; background: white">
+        <div style="display:flex;justify-content:center;align-items:center;height:60px;width: 60px;border-radius: 9px; background: LightBlue">
           <img src="sfa-logo-transparent.png" alt="Shopfloor Automation logo" style="max-width:100%;height:auto;" />
         </div>
         <a href="#" aria-label="Shop Floor Automation home">Shopfloor Automation, Inc.</a>
