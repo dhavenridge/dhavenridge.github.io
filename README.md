@@ -54,7 +54,7 @@
     .hero { padding: 72px 0 40px; text-align: center; }
     .eyebrow { display: inline-block; padding: 6px 12px; border-radius: 999px; background: rgba(78,161,255,.12); color: #cfe1ff; font-weight: 600; letter-spacing: .3px; }
     h1 { font-size: clamp(32px, 4.8vw, 56px); line-height: 1.08; margin: 18px 0 12px; letter-spacing: -.02em; }
-    .sub { max-width: 860px; margin: 0 auto; color: var(--muted); font-size: clamp(16px, 2.2vw, 20px); }
+    .sub { max-width: 860px; margin: 0 auto; color: var(--muted); font-size: clamp(16px, 2.2vw, 20px); text-align:left; }
     .hero-cta { margin-top: 26px; display: flex; gap: 14px; justify-content: center; flex-wrap: wrap; }
 
     /* Trust */
