@@ -106,10 +106,6 @@
   <header>
     <div class="container nav">
       <div class="brand">
-        <div style="display:flex;justify-content:center;align-items:center;height:60px;width: 60px;">
-          <img src="sfa-logo-transparent.png" alt="Shopfloor Automation logo" style="max-width:100%;height:auto;" />
-        </div>
-        <a href="#" aria-label="Shop Floor Automation home">Shopfloor Automation, Inc.</a>
       </div>
       <nav class="nav-links" aria-label="Primary">
         <!-- <a href="staff-augmentation.html">Staff Augmentation</a>-->
@@ -122,6 +118,10 @@
 
   <main>
     <section class="hero container">
+        <div style="display:flex;justify-content:center;align-items:center;height:100px;width: 100px;">
+          <img src="sfa-logo-transparent.png" alt="Shopfloor Automation logo" style="max-width:100%;height:auto;" />
+        </div>
+        <h1 style="text-align: left;">Shopfloor Automation, Inc.</h1>
       <!-- <span class="eyebrow">Staff Augmentation • Manufacturing Applications • PLC Connectivity • IIoT Experience</span>-->
       <h1>Modernize your shop floor.&nbsp;&nbsp;Scale up fast with on‑demand experts.</h1>
       <p class="sub">We help manufacturers connect machines, capture production data, and integrate MES/ERP. When you need extra hands, our <strong>Staff Augmentation</strong> team embeds with yours—engineers and developers who know plant IT, PLC protocols, and industrial networks. If a fast start is what you are after, we may have just the solution in our <strong>Custom Applications</strong></p>
@@ -172,16 +172,16 @@
       </div>
     </section>
     <br />
-    <section class="hero container">
-      <!-- <span class="eyebrow">Staff Augmentation • Manufacturing Applications • PLC Connectivity • IIoT Experience</span>-->
+    <!-- <section class="hero container">
+      <span class="eyebrow">Staff Augmentation • Manufacturing Applications • PLC Connectivity • IIoT Experience</span>
       <h1>Applications ready to super charge your shop floor!</h1>
       <p class="sub">We can deliver prebuilt, tested custom applications to fit your needs. We leveraged our experience to codify manufacturing best practices in our custom applications.</p>
-      <!-- <div class="hero-cta">
+      <div class="hero-cta">
         <a class="cta" href="#staff-aug">Staff Augmentation</a>
         <a class="cta" href="#services">Custom Applications</a>
         <a class="cta" href="#contact" style="background:rgba(255,255,255,.08); border:1px solid rgba(255,255,255,.15); color:#fff;">Talk to an Engineer</a>
-      </div> -->
-    </section>
+      </div>
+    </section> -->
     <section id="services" class="container">
       <div class="card highlight" style="margin-top: 18px;">
         <h2>Process Manufacturing Tools</h2>
