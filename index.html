@@ -367,7 +367,7 @@
             <img src="sfa-logo-2.png" alt="Shopfloor Automation logo" style="background:initial;width:30px;height:auto;" />
             <nav class="nav-links" aria-label="Primary">
                 <a href="#staff-aug">Staff Augmentation</a>
-                <a href="#services">Custom Applications</a>
+                <a href="#services">Manufacturing Applications</a>
                 <a href="#contact" class="cta">Get a Quote</a>
             </nav>
         </div>
@@ -375,7 +375,7 @@
 
     <main>
         <section class="hero container">
-            <div style="display:flex;justify-content:center;align-items:center;gap:20px;margin-bottom: 20px;">
+            <div style="display:flex;justify-content:center;align-items:center;gap:20px;margin-bottom:50px;">
                 <img src="sfa-logo-2.png" alt="Shopfloor Automation logo" style="background:initial;width:100px;height:auto;" />
                 <p style="text-align: left; font-size:35pt;">Shopfloor Automation, Inc.</p>
             </div>
@@ -384,10 +384,10 @@
             <p class="sub">We help manufacturers connect machines, capture production data, and integrate MES/ERP. When
                 you need extra hands, our <strong>Staff Augmentation</strong> team embeds with yours—engineers and
                 developers who know plant IT, PLC protocols, and industrial networks. If a fast start is what you are
-                after, we may have just the solution in our <strong>Custom Applications</strong></p>
+                after, we may have just the solution in our <strong>Manufacturing Applications</strong></p>
             <div class="hero-cta" style="margin-top:60px;">
                 <a class="cta" href="#staff-aug">Staff Augmentation</a>
-                <a class="cta" href="#services">Custom Applications</a>
+                <a class="cta" href="#services">Manufacturing Applications</a>
                 <a class="cta" href="#contact"
                     style="background:rgba(255,255,255,.08); border:1px solid rgba(255,255,255,.15); color:#fff;">Talk
                     to an Engineer</a>
@@ -449,8 +449,8 @@
     </section> -->
         <section id="services" class="container">
             <div class="card highlight" style="margin-top: 18px;">
-                <h2>Process Manufacturing Tools</h2>
-                <p class="kicker">Our engineers act on needs from across the industry. Our applications short cut your
+                <h2>Manufacturing Applications</h2>
+                <p class="kicker">Our engineers act on needs from across the industry. Our implemented applications can short cut your
                     development time/costs and provide proven success for your business.</p>
                 <div class="grid cols-3" style="margin-top: 18px;">
                     <div class="card" style="background:transparent; border-color: rgba(78,161,255,.25);">
@@ -515,17 +515,15 @@
     </section> -->
         <section id="whois" class="container">
             <div class="card highlight" style="margin-top: 18px;">
-                <h2>New Company, Long History</h2>
-                <p class="kicker-wide">Following are highlights from our work with a leading process manufacturing company.</p>
+                <h2>New Company,&nbsp;&nbsp; Long History</h2>
+                <p class="kicker-wide">Shopfloor Automation, Inc. is a US based corporation specialized in developing software for the packaging industry. Our company may be new, but we have over 50 years of combined experience in the packaging industry.</p>
                 <div class="grid cols-1" style="margin-top: 18px;">
                     <div class="card" style="background:transparent; border-color: rgba(78,161,255,.25);">
-                        <h3>Who are we and why</h3>
                         <ul class="list">
-                            <li>Shopfloor Automation, Inc. is a US based corporation specialized in developing software for the packaging industry. </li>
-                            <li>We are leveraging our experience, connections, and resources to provide resources and services specialized for packaging industry shop floor and print room processes.</li>
-                            <li>Our founder and principal consultant is David Havenridge. He has worked with Siegwerk and related industry partners since 1996. </li>
-                            <li>Shopfloor Automation pioneered software to automate print room processes including inventory tracking, consignment processes, Machine Connect for blending operations at in-house and print room locations supporting printing facilities since 1996. </li>
-                            <li>Features like Automatic replenishment, VOC tracking and reporting, return usage optimization, and consignment tracking; just to name a few. The resulting system served as backbone of InkRoom and inhouse management processes for customers shopfloor and supply chain operations in USA for 20+ years.                        </ul></li>
+                            <li>We are leveraging our experience, connections, and resources to provide resources and services specialized for packaging industry shop floor and print room processes</li>
+                            <li>Our founder and principal consultant is David Havenridge. He has worked with Siegwerk and related industry partners since 1996</li>
+                            <li>Shopfloor Automation pioneered software to automate print room processes including inventory tracking, consignment processes, and machine connect for blending operations at in-house and print room locations supporting printing facilities since 1996</li>
+                            <li>Features like Automatic replenishment, VOC tracking and reporting, return usage optimization, and consignment tracking; just to name a few. The resulting system served as backbone of InkRoom and inhouse management processes for customers shopfloor and supply chain operations in USA for 20+ years</li>
                         </ul>
                     </div>
                 </div>
