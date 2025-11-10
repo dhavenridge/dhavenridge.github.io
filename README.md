@@ -375,7 +375,7 @@
 
     <main>
         <section class="hero container">
-            <div style="display:flex;justify-content:center;align-items:center;gap:20px;">
+            <div style="display:flex;justify-content:center;align-items:center;gap:20px;margin-bottom: 20px;">
                 <img src="sfa-logo-2.png" alt="Shopfloor Automation logo" style="background:initial;width:100px;height:auto;" />
                 <p style="text-align: left; font-size:35pt;">Shopfloor Automation, Inc.</p>
             </div>
@@ -483,6 +483,7 @@
                 </div>
             </div>
         </section>
+        <br />
         <!-- <section id="case-studies" class="container">
       <h2>Recent outcomes</h2>
       <div class="grid cols-3" style="margin-top: 18px;">
@@ -512,6 +513,64 @@
         </article>
       </div>
     </section> -->
+        <section id="whois" class="container">
+            <div class="card highlight" style="margin-top: 18px;">
+                <h2>New Company, Long History</h2>
+                <p class="kicker-wide">Following are highlights from our work with a leading process manufacturing company.</p>
+                <div class="grid cols-1" style="margin-top: 18px;">
+                    <div class="card" style="background:transparent; border-color: rgba(78,161,255,.25);">
+                        <h3>Who are we and why</h3>
+                        <ul class="list">
+                            <li>Shopfloor Automation, Inc. is a US based corporation specialized in developing software for the packaging industry. </li>
+                            <li>We are leveraging our experience, connections, and resources to provide resources and services specialized for packaging industry shop floor and print room processes.</li>
+                            <li>Our founder and principal consultant is David Havenridge. He has worked with Siegwerk and related industry partners since 1996. </li>
+                            <li>Shopfloor Automation pioneered software to automate print room processes including inventory tracking, consignment processes, Machine Connect for blending operations at in-house and print room locations supporting printing facilities since 1996. </li>
+                            <li>Features like Automatic replenishment, VOC tracking and reporting, return usage optimization, and consignment tracking; just to name a few. The resulting system served as backbone of InkRoom and inhouse management processes for customers shopfloor and supply chain operations in USA for 20+ years.                        </ul></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <br />
+        <section id="projects" class="container">
+            <div class="card highlight" style="margin-top: 18px;">
+                <h2>Applications Delivered.</h2>
+                <p class="kicker-wide">Following are highlights from our work with a leading process manufacturing company. More detail is available upon request.</p>
+                <div class="grid cols-3" style="margin-top: 18px;">
+                    <div class="card" style="background:transparent; border-color: rgba(78,161,255,.25);">
+                        <h3>Mesio (MES)</h3>
+                        <ul class="list">
+                            <li>Shopfloor execution system to automate manufacturing</li>
+                            <li>Distributed equipment monitoring and control</li>
+                            <li>Tightly coupled to SAP for input/output (could be any MRP)</li>
+                            <li>Automated manual processes and data recording</li>
+                            <li>Tablet based interface for shop floor operators</li>
+                        </ul>
+                    </div>
+                    <div class="card" style="background:transparent; border-color: rgba(78,161,255,.25);">
+                        <h3>Ink Management System (IMS)</h3>
+                        <ul class="list">
+                            <li>Web based portal for ink room management</li>
+                            <li>Integrated with company MRP system</li>
+                            <li>Track ink usage and inventory</li>
+                            <li>Automate reordering and JIT delivery</li>
+                            <li>Localized interface to support your shop, anywhere</li>
+                        </ul>
+                    </div>
+                    <div class="card" style="background:transparent; border-color: rgba(78,161,255,.25);">
+                        <h3>Workspace</h3>
+                        <ul class="list">
+                            <li>Created complete process manufacturing software</li>
+                            <li>Complete plant scheduling to ensure on time delivery</li>
+                            <li>Resource planning to ensure optimal use of materials, labor and machines</li>
+                            <li>Secure desktop application connected to cloud services</li>
+                            <li>Supports over $200 million in manufacturing operations</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <br />
         <section id="contact" class="container" style="margin-top:20px;">
             <h2>Get a quote</h2>
             <p class="kicker">Tell us what you’re tackling—connectivity, MES, dashboards, or a team boost. We’ll reply
@@ -557,63 +616,6 @@
                     <div class="cta-band" style="margin-top: 8px;">
                         <p>Need an NDA first? We’ll send ours or sign yours.</p>
                         <a class="btn" href="mailto:sales@shopfloorautomation.net?subject=NDA Request">Request NDA</a>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section id="whois" class="container">
-            <div class="card highlight" style="margin-top: 18px;">
-                <h2>New Company, Long History</h2>
-                <p class="kicker-wide">Following are highlights from our work with a leading process manufacturing company.</p>
-                <div class="grid cols-1" style="margin-top: 18px;">
-                    <div class="card" style="background:transparent; border-color: rgba(78,161,255,.25);">
-                        <h3>Who are we and why</h3>
-                        <ul class="list">
-                            <li>Shopfloor Automation, Inc. is a US based corporation specialized in developing software for the packaging industry. </li>
-                            <li>We are leveraging our experience, connections, and resources to provide resources and services specialized for packaging industry shop floor and print room processes.</li>
-                            <li>Our founder and principal consultant is David Havenridge. He has worked with Siegwerk and related industry partners since 1996. </li>
-                            <li>Shopfloor Automation pioneered software to automate print room processes including inventory tracking, consignment processes, Machine Connect for blending operations at in-house and print room locations supporting printing facilities since 1996. </li>
-                            <li>Features like Automatic replenishment, VOC tracking and reporting, return usage optimization, and consignment tracking; just to name a few. The resulting system served as backbone of InkRoom and inhouse management processes for customers shopfloor and supply chain operations in USA for 20+ years.                        </ul></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="projects" class="container">
-            <div class="card highlight" style="margin-top: 18px;">
-                <h2>Applications Delivered.</h2>
-                <p class="kicker-wide">Following are highlights from our work with a leading process manufacturing company. More detail is available upon request.</p>
-                <div class="grid cols-3" style="margin-top: 18px;">
-                    <div class="card" style="background:transparent; border-color: rgba(78,161,255,.25);">
-                        <h3>Mesio (MES)</h3>
-                        <ul class="list">
-                            <li>Shopfloor execution system to automate manufacturing</li>
-                            <li>Distributed equipment monitoring and control</li>
-                            <li>Tightly coupled to SAP for input/output (could be any MRP)</li>
-                            <li>Automated manual processes and data recording</li>
-                            <li>Tablet based interface for shop floor operators</li>
-                        </ul>
-                    </div>
-                    <div class="card" style="background:transparent; border-color: rgba(78,161,255,.25);">
-                        <h3>Ink Management System (IMS)</h3>
-                        <ul class="list">
-                            <li>Web based portal for ink room management</li>
-                            <li>Integrated with company MRP system</li>
-                            <li>Track ink usage and inventory</li>
-                            <li>Automate reordering and JIT delivery</li>
-                            <li>Localized interface to support your shop, anywhere</li>
-                        </ul>
-                    </div>
-                    <div class="card" style="background:transparent; border-color: rgba(78,161,255,.25);">
-                        <h3>Workspace</h3>
-                        <ul class="list">
-                            <li>Created complete process manufacturing software</li>
-                            <li>Complete plant scheduling to ensure on time delivery</li>
-                            <li>Resource planning to ensure optimal use of materials, labor and machines</li>
-                            <li>Secure desktop application connected to cloud services</li>
-                            <li>Supports over $200 million in manufacturing operations</li>
-                        </ul>
                     </div>
                 </div>
             </div>
